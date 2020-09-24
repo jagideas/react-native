@@ -1,3 +1,8 @@
+# ⛔ Quick Fix
+As in iOS 14, Image cannot normally show. One of the solution is to upgrade to RN0.63 but we should not as it will drop iOS 9 support.
+Therefore, I have make a commit to fix this issue. Solution details: [Click Here](https://github.com/facebook/react-native/issues/29279)
+
+
 <h1 align="center">
   <a href="https://facebook.github.io/react-native/">
     React Native
